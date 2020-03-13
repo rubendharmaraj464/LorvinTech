@@ -31,6 +31,13 @@ public class Common {
 		//code
 		//code
 	}
+
+	public void update()
+	{
+		System.out.print("Called common Succesfully");
+		//code
+		//code
+	}
 	
 
 }
